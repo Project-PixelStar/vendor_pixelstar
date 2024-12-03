@@ -16,7 +16,7 @@
 
 # Versioning System
 PIXELSTAR_CODENAME := uday
-PIXELSTAR_NUM_VER := 3.5
+PIXELSTAR_NUM_VER := 3.6-LTS
 
 TARGET_PRODUCT_SHORT := $(subst pixelstar_,,$(PIXELSTAR_BUILD_TYPE))
 
